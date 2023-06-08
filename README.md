@@ -25,3 +25,10 @@
       </tr>
    </tbody>
 </table>
+
+
+
+| Header 1                                          | Header 2                                           |
+|---------------------------------------------------|----------------------------------------------------|
+| <td style="background-color: red;">Content 1</td> | Content 2                                          |
+| Content 3                                         | <td style="background-color: blue;">Content 4</td> |
